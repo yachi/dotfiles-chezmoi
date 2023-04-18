@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	name = yachi
+	email = yaachi@gmail.com
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
